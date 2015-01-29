@@ -20,7 +20,7 @@ public class Metodos {
     
     public void menu(){
     
-    
+    //blablabla
         
          
         String resposta =JOptionPane.showInputDialog("Selecciona figura:\n Cuadrado\n Triángulo\n Círculo");
